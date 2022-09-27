@@ -2,5 +2,5 @@
 
 ## Notes / Exercises for Colt Steele MySQL Boocamp
 
-These are notes I'll be taking during Colt's
+These are notes and exercises I'll be taking during Colt's
 course
